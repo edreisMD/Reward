@@ -1,7 +1,7 @@
 # Reward
 
 ###
-Starting a library to make it easy for AI to get feedback. Starting with text and images.
+Starting a library to make it easy for AI to get feedback from humans and from the environment. Starting with AI generated texts and images.
 
 ### Motivation
 
